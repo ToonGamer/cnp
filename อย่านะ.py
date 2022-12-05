@@ -1,2 +1,2 @@
 import webbrowser as cnp
-cnp.open("")
+cnp.open("url")
